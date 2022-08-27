@@ -19,8 +19,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate for Web Development Tasks.
 - 📫 How to reach me: Insta [im_vishnu_saini](https://instagram.com/im_vishnu_saini/)
 
