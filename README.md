@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Vishnu Saini</h1>
 <h3 align="center">I am Enthusiastic Full Stack Learner</h3>
 
+<a align="right" href="https://app.daily.dev/vsnu"><img src="https://api.daily.dev/devcards/206089d1e7ab45699e3d6f9b5a85d8d2.png?r=7c9" width="400" alt="Vishnu Saini's Dev Card"/></a>
+
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=vishnusaini07&theme=nord&row=1&column=7" alt="vishnusaini07" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnusaini07&label=Views&color=blue&style=plastic" alt="vishnusaini07" /> </p>
@@ -49,8 +51,6 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-<a align="right" href="https://app.daily.dev/vsnu"><img src="https://api.daily.dev/devcards/206089d1e7ab45699e3d6f9b5a85d8d2.png?r=7c9" width="400" alt="Vishnu Saini's Dev Card"/></a>
 
 <a href="https://github.com/vishnusaini07">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnusaini07&theme=light&hide_langs_below=1" />
