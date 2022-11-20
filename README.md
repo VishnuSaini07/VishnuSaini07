@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vishnu Saini</h1>
 <h3 align="center">I am Enthusiastic Full Stack Learner</h3>
 
-<a align="right" href="https://app.daily.dev/vsnu"><img src="https://api.daily.dev/devcards/206089d1e7ab45699e3d6f9b5a85d8d2.png?r=7c9" width="400" alt="Vishnu Saini's Dev Card"/></a>
+<a href="https://app.daily.dev/vsnu"><img src="https://api.daily.dev/devcards/206089d1e7ab45699e3d6f9b5a85d8d2.png?r=7c9" width="400" alt="Vishnu Saini's Dev Card"/></a>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=vishnusaini07&theme=nord&row=1&column=7" alt="vishnusaini07" /></p>
 
